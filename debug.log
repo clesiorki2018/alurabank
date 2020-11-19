@@ -1,0 +1,205 @@
+
+> alurabank@1.0.0 compile /home/max/cursos/alura/formacao-angular/typescript/alurabank
+> tsc
+
+../../node_modules/@types/node/assert.d.ts(2,68): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(49,68): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,94): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,101): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,104): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,98): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,105): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,108): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,47): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,53): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,56): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(95,61): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(101,63): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(102,89): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(102,96): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(102,99): error TS1005: '=' expected.
+../../node_modules/@types/node/assert.d.ts(103,38): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(103,53): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(103,66): error TS1109: Expression expected.
+../../node_modules/@types/node/assert.d.ts(103,83): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,93): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,100): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,103): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,26): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(104,32): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,42): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,48): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,51): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(109,1): error TS1128: Declaration or statement expected.
+../../node_modules/@types/node/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/events.d.ts(25,36): error TS1005: '=' expected.
+../../node_modules/@types/node/ts3.3/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/util.d.ts(10,30): error TS1005: '=' expected.
+../../node_modules/@types/node/util.d.ts(110,30): error TS1005: '=' expected.
+../../node_modules/@types/node/worker_threads.d.ts(10,29): error TS1005: '=' expected.
+
+> alurabank@1.0.0 compile /home/max/cursos/alura/formacao-angular/typescript/alurabank
+> tsc
+
+../../node_modules/@types/node/assert.d.ts(2,68): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(49,68): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,94): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,101): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,104): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,98): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,105): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,108): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,47): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,53): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,56): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(95,61): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(101,63): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(102,89): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(102,96): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(102,99): error TS1005: '=' expected.
+../../node_modules/@types/node/assert.d.ts(103,38): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(103,53): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(103,66): error TS1109: Expression expected.
+../../node_modules/@types/node/assert.d.ts(103,83): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,93): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,100): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,103): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,26): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(104,32): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,42): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,48): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,51): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(109,1): error TS1128: Declaration or statement expected.
+../../node_modules/@types/node/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/events.d.ts(25,36): error TS1005: '=' expected.
+../../node_modules/@types/node/ts3.3/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/util.d.ts(10,30): error TS1005: '=' expected.
+../../node_modules/@types/node/util.d.ts(110,30): error TS1005: '=' expected.
+../../node_modules/@types/node/worker_threads.d.ts(10,29): error TS1005: '=' expected.
+
+> alurabank@1.0.0 compile /home/max/cursos/alura/formacao-angular/typescript/alurabank
+> tsc
+
+../../node_modules/@types/node/assert.d.ts(2,68): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(49,68): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,94): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,101): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,104): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,98): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,105): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,108): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,47): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,53): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,56): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(95,61): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(101,63): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(102,89): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(102,96): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(102,99): error TS1005: '=' expected.
+../../node_modules/@types/node/assert.d.ts(103,38): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(103,53): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(103,66): error TS1109: Expression expected.
+../../node_modules/@types/node/assert.d.ts(103,83): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,93): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,100): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,103): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,26): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(104,32): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,42): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,48): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,51): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(109,1): error TS1128: Declaration or statement expected.
+../../node_modules/@types/node/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/events.d.ts(25,36): error TS1005: '=' expected.
+../../node_modules/@types/node/ts3.3/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/util.d.ts(10,30): error TS1005: '=' expected.
+../../node_modules/@types/node/util.d.ts(110,30): error TS1005: '=' expected.
+../../node_modules/@types/node/worker_threads.d.ts(10,29): error TS1005: '=' expected.
+
+> alurabank@1.0.0 compile /home/max/cursos/alura/formacao-angular/typescript/alurabank
+> tsc
+
+error TS6046: Argument for '--target' option must be: 'es3', 'es5', 'es6', 'es2015', 'es2016', 'es2017', 'esnext'.
+
+> alurabank@1.0.0 compile /home/max/cursos/alura/formacao-angular/typescript/alurabank
+> tsc
+
+../../node_modules/@types/node/assert.d.ts(2,68): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(49,68): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,94): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,101): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(58,104): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,98): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,105): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(60,108): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,47): error TS1144: '{' or ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,53): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(68,56): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(95,61): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(101,63): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(102,89): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(102,96): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(102,99): error TS1005: '=' expected.
+../../node_modules/@types/node/assert.d.ts(103,38): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(103,53): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(103,66): error TS1109: Expression expected.
+../../node_modules/@types/node/assert.d.ts(103,83): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,93): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,100): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(103,103): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,26): error TS1005: ',' expected.
+../../node_modules/@types/node/assert.d.ts(104,32): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,42): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,48): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(104,51): error TS1005: ';' expected.
+../../node_modules/@types/node/assert.d.ts(109,1): error TS1128: Declaration or statement expected.
+../../node_modules/@types/node/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/events.d.ts(25,36): error TS1005: '=' expected.
+../../node_modules/@types/node/ts3.3/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.3/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(10,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(11,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(12,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/ts3.6/base.d.ts(13,1): error TS1084: Invalid 'reference' directive syntax.
+../../node_modules/@types/node/util.d.ts(10,30): error TS1005: '=' expected.
+../../node_modules/@types/node/util.d.ts(110,30): error TS1005: '=' expected.
+../../node_modules/@types/node/worker_threads.d.ts(10,29): error TS1005: '=' expected.
+
+> alurabank@1.0.0 compile /home/max/cursos/alura/formacao-angular/typescript/alurabank
+> tsc
+
